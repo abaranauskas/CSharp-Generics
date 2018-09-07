@@ -1,0 +1,12 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 3rd time\CollectIt\CollectIt\bin\Debug\CollectIt.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 3rd time\CollectIt\CollectIt\bin\Debug\CollectIt.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 3rd time\CollectIt\CollectIt\bin\Debug\CollectIt.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 3rd time\CollectIt\CollectIt\obj\Debug\CollectIt.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 3rd time\CollectIt\CollectIt\obj\Debug\CollectIt.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Fundamentals with C# 5.0 3rd time\CollectIt\CollectIt\obj\Debug\CollectIt.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\CollectIt\CollectIt\bin\Debug\CollectIt.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\CollectIt\CollectIt\obj\Debug\CollectIt.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\CollectIt\CollectIt\obj\Debug\CollectIt.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\CollectIt\CollectIt\bin\Debug\CollectIt.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\CollectIt\CollectIt\bin\Debug\CollectIt.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\CollectIt\CollectIt\obj\Debug\CollectIt.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\ReflectIt\ReflectIt\bin\Debug\ReflectIt.exe.config
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\ReflectIt\ReflectIt\obj\Debug\ReflectIt.csprojResolveAssemblyReference.cache
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\ReflectIt\ReflectIt\bin\Debug\ReflectIt.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\ReflectIt\ReflectIt\bin\Debug\ReflectIt.pdb
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\ReflectIt\ReflectIt\obj\Debug\ReflectIt.exe
+C:\Users\aidas\OneDrive\Documents\Visual Studio 2015\Projects\C# Generics\ReflectIt\ReflectIt\obj\Debug\ReflectIt.pdb
